@@ -293,4 +293,4 @@ client.on("guildMemberAdd", async (member) => {
 
 
 
-client.login(client.ayarlar.token)
+client.login(process.env.BOT_TOKEN);
