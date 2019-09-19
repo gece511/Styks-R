@@ -51,7 +51,7 @@ var oyun = [
 client.ayarlar = {
 
 	prefix: "s!", // Ön-ek
-	token: "NjIzNzc4NTA0NzEzOTYxNDcy.XYJs6w.6BxeORulW_QYfq93OhwyHAhM740",
+	token: "nabacan",
 	klasor: "komutlar", // Komutların bulunduğu klasörün ismi
 	renk: "#FF0000", // Embed rengi (HTML kodu veya RANDOM yazılabilir.)
 	destek: "https://discord.gg/UYmPKYa", // Discord destek sunucunuz
